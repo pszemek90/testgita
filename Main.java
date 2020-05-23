@@ -6,6 +6,7 @@ public class Main {
         System.out.println("mała zmiana");
         System.out.println("coś dziwnego");
         System.out.println("po zmianie użytkownika");
+        System.out.println("jeszcze jedna zmiana");
         //jakis komentarz
     }
 }
