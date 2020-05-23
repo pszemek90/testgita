@@ -5,6 +5,7 @@ public class Main {
         System.out.println("pac1");
         System.out.println("mała zmiana");
         System.out.println("coś dziwnego");
+        System.out.println("po zmianie użytkownika");
         //jakis komentarz
     }
 }
