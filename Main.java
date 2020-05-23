@@ -4,6 +4,7 @@ public class Main {
     public static void main(String[] args) {
         System.out.println("pac1");
         System.out.println("mała zmiana");
+        System.out.println("coś dziwnego");
         //jakis komentarz
     }
 }
